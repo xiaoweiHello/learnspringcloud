@@ -1,0 +1,15 @@
+
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri:
+          search-paths: https://github.com/xiaoweiHello/learnspringcloud/
+          username: xiaowei_hello@126.com
+          password: weizheng110
+      label: master
+server:
+  port: 8888
