@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server-colony/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
